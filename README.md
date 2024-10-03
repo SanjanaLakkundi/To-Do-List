@@ -1,4 +1,12 @@
-Key Points in Code
+## Features
+- Add new tasks to your to-do list.
+- Edit existing tasks.
+- Delete tasks that are no longer needed.
+- Mark tasks as completed.
+- Local storage to save tasks across page refreshes.
+- Responsive design for use on both desktop and mobile devices.
+
+## Key Points in Code
 
 HTML Structure:
 Organized using a container for input and task list elements.
